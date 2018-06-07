@@ -13,4 +13,6 @@ source venv/bin/activate
 
 ### Links
 
-[Build a Simple Dice Game](https://opensource.com/article/17/10/python-101)
+* [Build a Simple Dice Game](https://opensource.com/article/17/10/python-101)
+
+* [Build a Game Framework](https://opensource.com/article/17/12/game-framework-python)
